@@ -67,5 +67,5 @@ class Game
 
 end
 
-game = Game.new('./puzzles/sudoku1.txt')
+game = Game.new('./puzzles/FILE_NAME')
 game.play
